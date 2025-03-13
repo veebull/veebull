@@ -88,7 +88,7 @@ I'm a **Full-stack Web3 Developer** with **12+ years in web development** and **
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40veegenx-blue)](https://t.me/veegenx)
 [![Email](https://img.shields.io/badge/thearmbull91@gmail.com-red)](mailto:thearmbull91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40web3bull-blue)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40veebull-blue)](https://www.linkedin.com)
 [![GitHub](https://img.shields.io/github/followers/veebull?style=social)](https://github.com/gh)
 
 <div align="center">
