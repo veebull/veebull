@@ -1,6 +1,7 @@
-# Hi there, I'm Web3Bull! 🐂🚀
+# Hi there, I'm VeeBull! 🐂🚀
 
-![VeeBull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical)
+![Web3Bull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veebull&layout=compact&theme=radical)
 
 ## 🚀 About Me
 
@@ -9,17 +10,22 @@ I'm a **Full-stack Web3 Developer** with **12+ years in web development** and **
 ### 🛠 Tech Stack
 
 #### **Blockchain & Smart Contracts**
-- **Languages:** Solidity, Rust, FunC
-- **Networks:** Ethereum, Solana, TON, SEI
+- **Languages:** ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) ![FunC](https://img.shields.io/badge/-FunC-blue?style=flat-square)
+- **Networks:** ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum) ![Solana](https://img.shields.io/badge/-Solana-4E44CE?style=flat-square&logo=solana) ![TON](https://img.shields.io/badge/-TON-blue?style=flat-square&logo=ton)
 - **Frameworks:** Hardhat, Foundry, Truffle, OpenZeppelin, Anchor
 - **Security:** Slither, MythX, Echidna
 - **DeFi Integrations:** Uniswap, Aave, Compound
 
 #### **Full-Stack Development**
-- **Frontend:** React, Vue.js, Next.js, TailwindCSS
+- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 - **DApp Development:** Web3.js, Ethers.js, TonWeb, Solana Pay, Phantom Wallet SDK
-- **Backend:** Node.js, Python, GraphQL, PostgreSQL
-- **Infrastructure:** Docker, Kubernetes, CI/CD, AWS
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+- **Infrastructure:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes) CI/CD, AWS
+
+### 📊 More Stats & Charts
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gh&theme=radical&hide_border=true)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=gh&theme=radical)
 
 ### 🔥 Featured Projects
 
