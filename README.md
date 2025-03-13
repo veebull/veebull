@@ -17,7 +17,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="solidity" width="40" height="40" />&nbsp;
  <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" title="foundry-rs" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="rust" width="40" height="40" />&nbsp;
- 
  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=040" title="solana" width="40" height="40" />&nbsp;
  <img src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" title="anchor" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40" />&nbsp;
@@ -40,12 +39,16 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veebull&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veebull&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veebull&theme=github_dark" alt=""/>
-     <img src="https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical" alt=""/>
+</div>
+<details>
+<summary>### More Stats</summary>
+ <div id="more-stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical" alt=""/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veebull&layout=compact&theme=radical" alt=""/>
      <img src="https://streak-stats.demolab.com/?user=veebull&theme=dark" alt=""/>
      <img src="https://github-profile-trophy.vercel.app/?username=veebull&theme=darkhub" alt=""/>
-      
-</div>
+ </div>
+</details>
 
 ## 🚀 About Me
 
