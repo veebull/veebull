@@ -4,6 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veebull&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=veebull&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=veebull)](https://github.com/veebull/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veebull&theme=transparent)
 
 ## 🚀 About Me
 
