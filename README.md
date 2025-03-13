@@ -12,6 +12,13 @@
   </a>
 </div>
 
+### About me
+- 🌱 I’m currently learning **Web3, AI, Quantum**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 🚀 I use daily: Rust, TypeScript, Python, Qiskit, Git, Bash, VS Code
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌍 I speak English
+
 ### Languages and tools
 <div id="techs" align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="solidity" width="40" height="40" />&nbsp;
