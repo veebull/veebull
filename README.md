@@ -17,7 +17,8 @@
 
 <div>
   <a href="#link">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="asd"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
+  badge&logo=linkedin&logoColor=white" alt="asd"/>
  </a>
 </div>
 
