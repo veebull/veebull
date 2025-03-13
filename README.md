@@ -15,6 +15,13 @@
   </a>
 </div>
 
+<div>
+  <a href="#link">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="asd"/>
+ </a>
+</div>
+
+
 ![Web3Bull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=veebull&theme=darkhub)](https://github.com/veebull/github-profile-trophy&no-bg=true)
