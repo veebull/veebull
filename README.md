@@ -1,4 +1,4 @@
-# Hi there, I'm VeeBull! 🐂🚀
+ Hi there, I'm VeeBull! 🐂🚀 Web3 Blockchain Developer
 
 ![Web3Bull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical)
 
