@@ -2,7 +2,7 @@
 
 ![Web3Bull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veebull&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=veebull&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=veebull&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=veebull)](https://github.com/veebull/github-profile-trophy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veebull&theme=transparent)
 ![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=The%20blockchain%20remembers%20everything%E2%80%94make%20your%20code%20worth%20remembering.&author=V)
