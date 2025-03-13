@@ -41,7 +41,7 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veebull&theme=github_dark" alt=""/>
 </div>
 <details>
-<summary>### More Stats</summary>
+<summary>📈 More Stats</summary>
  <div id="more-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=veebull&show_icons=true&theme=radical" alt=""/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veebull&layout=compact&theme=radical" alt=""/>
